@@ -1,0 +1,11 @@
+﻿  3dglBitmap.cpp
+  3dglObject.cpp
+  3dglShader.cpp
+  3dglModel.cpp
+  3dglSkyBox.cpp
+  3dglTerrain.cpp
+  3dglMatInverse.cpp
+  main.cpp
+c:\users\shahrzad\desktop\my files\backup\uni\kingston\3d programming\outscene\myport4\40.firstterrain-normal\3dgp\main.cpp(276): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  3dgp.vcxproj -> C:\Users\shahrzad\Desktop\my files\backup\Uni\kingston\3D Programming\outScene\myPort4\40.FirstTerrain-normal\Debug\FirstTerrain.exe
